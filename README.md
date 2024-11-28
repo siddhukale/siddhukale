@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on devops team
 - 📫 How to reach me through github
 - - 😄 Pronouns: learning
-- ⚡ Fun fact: style
+- ⚡ Fun fact: "style"
 
 <!---
 siddhukale/siddhukale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
